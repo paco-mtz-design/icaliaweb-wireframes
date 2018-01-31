@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdXZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmLjI5PEBISUpLTFBUYGNmam9xVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxAQRGVzaWduIFNwcmludAoxd9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqADoAWgBqAG1ZOU0tlcm5XTlNDb2xvcl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXU5TU3Ryb2tlQ29sb3IjAAAAAAAAAADUJygpCiorLC1VTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjAgMCAwABABgAuADdIvCjAxVE5TSUQQAYAM0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiNzhcTlNDb2xvclNwYWNlWE5TT2JqZWN00jM0OjtXTlNDb2xvcqI6ONIKPT4/XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xESCkFER6JCQ4AQgBGiRUaAEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEENpcmN1bGFyU3RkLUJvb2vSMzRNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU84XE5TRGljdGlvbmFyedIzNFFSXxAQTlNGb250RGVzY3JpcHRvcqJTOF8QEE5TRm9udERlc2NyaXB0b3LXClVWV1hZWltcXF5fXitaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboAZgBeAFyNANAAAAAAAACNAKAAAAAAAANISCmFioIAY0jM0ZGVXTlNBcnJheaJkONIzNGdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2k4XxAQTlNQYXJhZ3JhcGhTdHlsZdNrKApsbS1XTlNXaGl0ZUIxABADgA3SMzRPcKJPONIzNHJzXxASTlNBdHRyaWJ1dGVkU3RyaW5nonQ4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xd4VHJvb3SAAQAIABEAGgAjAC0AMgA3AFcAXQBkAG0AdACBAIMAhQCHAJoAoQCpALQAugC8AL4AwADCAMQAygDMAM4A0ADSANQA1gDdAOUBBwEaASgBMQE6AUABTQFiAWkBawFtAW8BdAF5AXsBfQGCAY0BlgGjAaYBswG8AcEByQHMAdEB7gHwAfIB+QH8Af4CAAIDAgUCBwIJAh8CNQI+AlECVgJsAnACfQKCApUCmAKrAroCxQLRAuMC+AMKAx8DIQMjAyUDLgM3AzwDPQM/A0QDTANPA1QDbgNyA4UDjAOUA5cDmQObA6ADowOoA70DwAPVA+cD6gPvAAAAAAAAAgEAAAAAAAAAeQAAAAAAAAAAAAAAAAAAA/E="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D0946E7C-233C-4D7C-A1FE-7069EEC98326",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 98,
+    "x": 74,
+    "y": 1524
+  },
+  "glyphBounds": "{{0, 4}, {97, 45}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Design Sprint 1w",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CAC18D5F-D097-48D7-B789-5410909737B1"
+  },
+  "textBehaviour": 0
+}
