@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdXZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUrMTI2Pj9AQUJGSldaXWFna29xVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxAtSG93IGRvIHdlIGhlbHAgb3VyIGN1c3RvbWVycyBpbiBhIHVuaXF1ZSB3YXku0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmAC4AMgBSAGIAbXU5TU3Ryb2tlQ29sb3JWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvctMmJwooKSpXTlNXaGl0ZVxOU0NvbG9yU3BhY2VCMQAQA4AK0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoi4wWE5TT2JqZWN0IwAAAAAAAAAA0gozNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKNzo9ojg5gA6AD6I7PIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BQAAAAAAAAXxAQQ2lyY3VsYXJTdGQtQm9sZNIsLUNEXxATTlNNdXRhYmxlRGljdGlvbmFyeaNDRTBcTlNEaWN0aW9uYXJ50iwtR0hfEBBOU0ZvbnREZXNjcmlwdG9yokkwXxAQTlNGb250RGVzY3JpcHRvctcKS0xNTk9QUVJSVFVUVlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxASTlNQYXJhZ3JhcGhTcGFjaW5nXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugBeAFYAVI0BSAAAAAAAAI0AoAAAAAAAAEAHSEgpYWaCAFtIsLVtcV05TQXJyYXmiWzDSLC1eX18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo15gMF8QEE5TUGFyYWdyYXBoU3R5bGXUYidjCmRWZSpVTlNSR0JfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMCAwIDAAgBmACtJoCmlqVE5TSUQQAYAa0iwtbG1cTlNDb2xvclNwYWNlom4wXE5TQ29sb3JTcGFjZdIsLUVwokUw0iwtcnNfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidDBfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRd3hUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcAtwC+AMYA0QDXANkA2wDdAN8A4QDnAOkA6wDtAO8A8QDzAQEBCAEqAT0BRQFMAVQBYQFkAWYBaAFtAXgBgQGJAYwBlQGeAaMBwAHCAcQBywHOAdAB0gHVAdcB2QHbAfECBwIQAiMCKAI+AkICTwJUAmcCagJ9AowClwKjArUCygLcAvEC8wL1AvcDAAMJAwsDEAMRAxMDGAMgAyMDKANCA0YDWQNiA2gDfQOEA4YDiAONA5IDlAOWA5sDqAOrA7gDvQPAA8UD2gPdA/IEBAQHBAwAAAAAAAACAQAAAAAAAAB5AAAAAAAAAAAAAAAAAAAEDg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "04E07025-74AB-435D-8552-A14629D809DC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 966,
+    "x": 67,
+    "y": 171
+  },
+  "glyphBounds": "{{3, 12}, {917, 132}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "How do we help our c",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "88906BE2-AB70-49AC-9CF8-F9E8E704B27A"
+  },
+  "textBehaviour": 1
+}
