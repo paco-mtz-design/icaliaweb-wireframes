@@ -1,6 +1,14 @@
 {
-  "_class": "page",
-  "do_objectID": "0cbe2af0-06ca-11e8-9f3a-435c12aa3512",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 70,
+  "do_objectID": "E3AE1D98-E1B1-4780-AD79-A059FF4F10CE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +21,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 80,
+    "width": 1280,
+    "x": 100,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,20 +44,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "8631C948-39AA-4283-A0D0-BE61F61472CE"
-    },
-    {
-      "class": "artboard",
-      "id": "8EA18873-5254-4FDD-B009-A1B2E034D823"
-    },
-    {
-      "class": "artboard",
-      "id": "B656FAF5-35A2-4260-873D-328D6B07DD7F"
+      "class": "group",
+      "id": "389651E3-9D4D-4453-8682-8433549CB752"
     }
   ],
-  "name": "Page 1",
+  "name": "header",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -57,9 +61,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "48F84165-ADCB-42ED-8E8C-617C26F1055C",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

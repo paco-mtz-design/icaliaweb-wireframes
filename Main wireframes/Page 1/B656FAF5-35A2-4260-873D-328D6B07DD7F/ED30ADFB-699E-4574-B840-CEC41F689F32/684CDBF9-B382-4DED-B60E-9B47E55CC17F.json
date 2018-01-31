@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAiIyQlJicoNTg+QkZOTzNQUVU0WVphZWlscXNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANcI2ljYWxpZXJMaWZl0xESChMaIVdOUy5rZXlzWk5TLm9iamVjdHOmFBUWFxgZgASABYAGgAeACIAJphscHR4fIIAKgA6AFoAXgBiAHIAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlVk5TS2VybldOU0NvbG9yXU5TU3Ryb2tlQ29sb3LXCikqKywtLi8wMDIzMjRaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboANgAuACyNAOAAAAAAAACNAKAAAAAAAABAB0hIKNjeggAzSOTo7PFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiOz1YTlNPYmplY3TSOTo/QF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz9BPV8QEE5TUGFyYWdyYXBoU3R5bGXSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MREgpHSk2iSEmAEIARoktMgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVfEBBDaXJjdWxhclN0ZC1Cb29r0jk6UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUPVxOU0RpY3Rpb25hcnnSOTpWV18QEE5TRm9udERlc2NyaXB0b3KiWD1fEBBOU0ZvbnREZXNjcmlwdG9yIwAAAAAAAAAA1FtcXQpeNF9gVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMACAGYAb0mIKY2RUTlNJRBABgBrSOTpmZ1xOU0NvbG9yU3BhY2WiaD1cTlNDb2xvclNwYWNl0jk6amtXTlNDb2xvcqJqPdNtXApub2BXTlNXaGl0ZUIxABADgBvSOTpUcqJUPdI5OnR1XxASTlNBdHRyaWJ1dGVkU3RyaW5nonY9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xl6VHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAJYAnQClALAAtwC5ALsAvQC/AMEAwwDKAMwAzgDQANIA1ADWANgA6wENATgBPwFHAVUBZAFvAXsBjQGiAbQByQHLAc0BzwHYAeEB4wHoAekB6wHwAfsCBAIMAg8CGAIdAjcCOwJOAlMCcAJyAnQCewJ+AoACggKFAocCiQKLAqECtwLKAs8C5QLpAvYC+wMOAxEDJAMtAzYDPANJA14DZQNnA2kDbgNzA3UDdwN8A4kDjAOZA54DpgOpA7ADuAO7A70DvwPEA8cDzAPhA+QD+QQLBA4EEwAAAAAAAAIBAAAAAAAAAHsAAAAAAAAAAAAAAAAAAAQV"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "684CDBF9-B382-4DED-B60E-9B47E55CC17F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 78,
+    "x": 0.84375,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 7}, {77, 10}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "#icalierLife",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "55F86920-8FA9-4D4A-B748-D851CADA6CFA"
+  },
+  "textBehaviour": 0
+}
