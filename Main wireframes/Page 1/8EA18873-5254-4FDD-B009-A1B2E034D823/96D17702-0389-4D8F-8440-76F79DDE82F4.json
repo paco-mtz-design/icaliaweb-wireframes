@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdXZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmLjI5PEBISUpLTFBUYGNmam9xVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxAsVGVhbXMgYXJvdW5kIHRoZSB3b3JsZCBoYXZlIGFkb3B0ZWQgc3ByaW50cy7TERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgA6AFoAagBtWTlNLZXJuV05TQ29sb3JfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV1OU1N0cm9rZUNvbG9yIwAAAAAAAAAA1CcoKQoqKywtVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMAAQAYALgA3SLwowMVROU0lEEAGADNIzNDU2WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojc4XE5TQ29sb3JTcGFjZVhOU09iamVjdNIzNDo7V05TQ29sb3KiOjjSCj0+P18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MREgpBREeiQkOAEIARokVGgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEgAAAAAAABeT3BlblNhbnMtTGlnaHTSMzRNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU84XE5TRGljdGlvbmFyedIzNFFSXxAQTlNGb250RGVzY3JpcHRvcqJTOF8QEE5TRm9udERlc2NyaXB0b3LXClVWV1hZWltcXF5fXitaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboAZgBeAFyNAUAAAAAAAACNAKAAAAAAAANISCmFioIAY0jM0ZGVXTlNBcnJheaJkONIzNGdoXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZ2k4XxAQTlNQYXJhZ3JhcGhTdHlsZdNrKApsbS1XTlNXaGl0ZUIxABADgA3SMzRPcKJPONIzNHJzXxASTlNBdHRyaWJ1dGVkU3RyaW5nonQ4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xd4VHJvb3SAAQAIABEAGgAjAC0AMgA3AFcAXQBkAG0AdACBAIMAhQCHALYAvQDFANAA1gDYANoA3ADeAOAA5gDoAOoA7ADuAPAA8gD5AQEBIwE2AUQBTQFWAVwBaQF+AYUBhwGJAYsBkAGVAZcBmQGeAakBsgG/AcIBzwHYAd0B5QHoAe0CCgIMAg4CFQIYAhoCHAIfAiECIwIlAjsCUQJaAmkCbgKEAogClQKaAq0CsALDAtIC3QLpAvsDEAMiAzcDOQM7Az0DRgNPA1QDVQNXA1wDZANnA2wDhgOKA50DpAOsA68DsQOzA7gDuwPAA9UD2APtA/8EAgQHAAAAAAAAAgEAAAAAAAAAeQAAAAAAAAAAAAAAAAAABAk="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "96D17702-0389-4D8F-8440-76F79DDE82F4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 554,
+    "x": 156.3125,
+    "y": 618.375
+  },
+  "glyphBounds": "{{0, 14}, {524, 113}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Teams around the wor Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B9E6A96A-9AB7-42E8-88D1-6295ED679186"
+  },
+  "textBehaviour": 1
+}
