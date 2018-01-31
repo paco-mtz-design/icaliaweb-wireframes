@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdXZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUrMTI2Pj9AQUJGSldaXWFna29xVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXxASMy4gTVZQIERldmVsb3BtZW500xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmAC4AMgBSAGIAbXU5TU3Ryb2tlQ29sb3JWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvctMmJwooKSpXTlNXaGl0ZVxOU0NvbG9yU3BhY2VCMQAQA4AK0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoi4wWE5TT2JqZWN0IwAAAAAAAAAA0gozNDVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKNzo9ojg5gA6AD6I7PIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BIAAAAAAAAXk9wZW5TYW5zLUxpZ2h00iwtQ0RfEBNOU011dGFibGVEaWN0aW9uYXJ5o0NFMFxOU0RpY3Rpb25hcnnSLC1HSF8QEE5TRm9udERlc2NyaXB0b3KiSTBfEBBOU0ZvbnREZXNjcmlwdG9y1wpLTE1OT1BRUlJUVVRWWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26AF4AVgBUjQFAAAAAAAAAjQCgAAAAAAAAQAdISClhZoIAW0iwtW1xXTlNBcnJheaJbMNIsLV5fXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjXmAwXxAQTlNQYXJhZ3JhcGhTdHlsZdRiJ2MKZFZlKlVOU1JHQl8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMACAGYAK0mgKaWpUTlNJRBABgBrSLC1sbVxOU0NvbG9yU3BhY2WibjBcTlNDb2xvclNwYWNl0iwtRXCiRTDSLC1yc18QEk5TQXR0cmlidXRlZFN0cmluZ6J0MF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF3eFRyb290gAEACAARABoAIwAtADIANwBXAF0AZABtAHQAgQCDAIUAhwCcAKMAqwC2ALwAvgDAAMIAxADGAMwAzgDQANIA1ADWANgA5gDtAQ8BIgEqATEBOQFGAUkBSwFNAVIBXQFmAW4BcQF6AYMBiAGlAacBqQGwAbMBtQG3AboBvAG+AcAB1gHsAfUCBAIJAh8CIwIwAjUCSAJLAl4CbQJ4AoQClgKrAr0C0gLUAtYC2ALhAuoC7ALxAvIC9AL5AwEDBAMJAyMDJwM6A0MDSQNeA2UDZwNpA24DcwN1A3cDfAOJA4wDmQOeA6EDpgO7A74D0wPlA+gD7QAAAAAAAAIBAAAAAAAAAHkAAAAAAAAAAAAAAAAAAAPv"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5BE6BF90-5A3E-4720-8CDF-EC1C433ED70E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 451,
+    "x": 651,
+    "y": 2316
+  },
+  "glyphBounds": "{{2, 14}, {447, 49}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "3. MVP Development",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B9E6A96A-9AB7-42E8-88D1-6295ED679186"
+  },
+  "textBehaviour": 0
+}
